@@ -12,7 +12,6 @@ app.use(cors());
 
 app.use('/posts', postRoutes);
 
-
 const CONNECTION_URL = 'mongodb+srv://alexisnovas:admin12345@cluster0.kddhl.mongodb.net/memoriesAppDatabase?retryWrites=true&w=majority';
 const PORT = process.env.PORT || 5000;
 
