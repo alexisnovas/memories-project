@@ -9,10 +9,10 @@ The Memories App is a web application built using the MERN (MongoDB, Express.js,
 - Responsive design: The app is optimized for various screen sizes, including desktop, tablet, and mobile devices.
 
 ## Technologies Used
-### **Frontend**: React.js, Redux, Material-UI
-### **Backend**: Node.js, Express.js, MongoDB, Mongoose
-### **Authentication**: JSON Web Tokens (JWT), Passport.js (Google OAuth)
-### **Image storage**: Cloudinary (or any other cloud-based image storage service)
-### **Deployment**: Heroku (backend), Netlify (frontend)
+- **Frontend**: React.js, Redux, Material-UI
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose
+- **Authentication**: JSON Web Tokens (JWT), Passport.js (Google OAuth)
+- **Image storage**: Cloudinary (or any other cloud-based image storage service)
+- **Deployment**: Heroku (backend), Netlify (frontend)
 
 Author: Alexis Novas
